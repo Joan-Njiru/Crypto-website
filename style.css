@@ -1,0 +1,312 @@
+body{
+    background-image: url(Images/blacky.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+   
+.main{
+    margin-top: 50px;
+    display: flex;
+}
+
+.logo{
+    width: 40%;
+    margin-left: 70px;
+}
+.topnav{
+    display: flex;
+}
+.topnav ul li{
+    list-style: none;
+    display: inline;
+    margin:1em;
+    color: white;
+}
+#ecsa{
+ width: 50px;
+ height: 50px;
+ border-radius: 10px;
+
+}
+#topButton{
+    margin-left:90px;
+    border-radius: 10px;
+    background-color: rgb(73, 97, 73);
+    border: solid,1px;
+    border-color: green;
+    color: white;
+}
+#home{
+    color: rgb(100, 219, 100);
+}
+.holder{
+    width: 100%;
+    display: flex;
+}
+.left{
+    width: 60%;
+    margin-left: 80px;
+    color: white;
+}
+#secure{
+    color: rgb(71, 187, 152);
+}
+#cryp{
+    color: rgb(182, 203, 211);
+}
+.words h1{
+font-size: 60px;
+}
+.right{
+    margin-left: 80px;
+    width: 40%;
+}
+#neonbutton{
+    padding: 15px 30px 15px 30px;
+    border-radius: 8px;
+    background-color: rgb(73, 218, 73);
+}
+#neonbutton1{
+    padding: 20px 30px 20px 30px;
+    border-radius: 8px;
+    background-color: rgb(73, 218, 73);
+}
+.foot{
+    width: 100%;
+    margin-top: 120px;
+    background-color:  rgb(73, 218, 73);
+    display: flex;
+}
+.stat-bod{
+    width: 100%;
+    background-image: url(Images/blacky.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+}
+#view{
+    float: right;
+    margin-right: 30px;
+}
+
+.tab{
+    width: 100%;
+    color: white;
+}
+.stats-bottom{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-image: url(Images/blacky.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.lefty{
+    margin-left: 120px;
+    width: 20%;
+    display: block;
+    color: white;
+}
+.lefty1{
+    border: solid 1.5px;
+    border-color: grey;
+    border-radius: 10px;
+    text-align: center;
+}
+.up{
+    width: 150px;
+    height: 150px;
+    margin-left: 50px;
+    border: none;
+    background-color: grey;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    border: none;
+}
+.up1{
+    width: 150px;
+    height: 150px;
+    margin-left: 10px;
+    border: none;
+    background-color: grey;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    border: none;
+}
+
+#wallet{
+    width: 80px;
+    height: 80px;
+    margin-left: 35px;
+}
+
+.lefty2{
+    border: solid 1.5px;
+    border-color: grey;
+    margin-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.middle{
+    border: solid 1.5px;
+    border-color: grey;
+    margin-top: 130px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    height: 300px;
+}
+.righty{
+    margin-left: 50px;
+    width: 30%;
+    color: white;
+}
+#invest{
+    color: green;
+}
+.explore{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-image: url(Images/blacky.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.lef{
+width: 40%;
+color: white;
+}
+.rig{
+    width: 40%;
+    margin-left: 100px;
+    display: flex;
+}
+.mid{
+width: 250px;
+height: 250px;
+background-color: rgb(15, 65, 231);
+}
+.righ{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(247, 163, 242);
+}
+.circle{
+    width: 100%;
+    display: flex;
+    background-image: url(Images/blacky.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+}
+.levels{
+    color: white;
+}
+.round{
+    width: 50%;
+    
+}
+.a{
+    width: 15%;
+}
+.b{
+    width: 15%;
+}
+.c{
+    width: 15%;
+}
+.d{
+    width: 15%;
+}
+.e{
+    width: 15%;
+}
+.lef{
+    width: 15%;
+
+}
+.mid{
+    width: 15%;
+    border: solid;
+    border-radius: 10px;
+
+}
+.righ{
+    margin-top: 40px;
+    border: solid;
+    border-radius: 10px;
+    margin-left: 30px;
+    width: 15%;
+
+}
+#smart{
+    color: white;
+}
+td,
+th{
+    padding: 16px 24px;
+    text-align: left;
+    color: #D6D6D6;
+    font-weight: 600;
+}
+table{
+    width: 90%;
+    margin-top: 1%;
+    font-size: 1.2rem;
+    border-collapse: collapse;
+    margin-left: 2%;
+    background: radial-gradient( #000124, #1A1A1A);
+    border-radius: 11px;
+    box-shadow: 0 10px 30px rgb(0, 0, 0,0.5);
+    margin-bottom: 20%;
+}
+.port{
+    width: 100%;
+    display: flex;
+    background-image: url(Images/blacky.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+}
+.appstores{
+    width: 50%;
+    color: white;
+}
+.stores{
+    display: flex;
+}
+.goog{
+    margin-left: 30px;
+}
+.apple{
+    margin-left: 30px;
+}
+.phone{
+    width: 50%;
+    
+}
+.search{
+    text-align: center;
+}
+#gs{
+
+}
+#img1{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
+#img2{
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+}
+footer{
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+}
